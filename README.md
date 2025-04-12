@@ -18,8 +18,8 @@
 
 - `pkg install git`
 - `pkg install python python-pip`
-- `git clone .git`
-- `cd `
+- `git clone https://github.com/aimanhafiz330/Cpmkingcpmaiman.git`
+- `cd cpmkingcpmaiman`
 - `pip install -r requirements.txt`
 - `python main.py`
 
