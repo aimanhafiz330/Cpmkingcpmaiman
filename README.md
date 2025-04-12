@@ -21,7 +21,7 @@
 - `git clone https://github.com/aimanhafiz330/Cpmkingcpmaiman.git`
 - `cd Cpmkingcpmaiman`
 - `pip install -r requirements.txt`
-- `python main.py`
+- `python cpmking.py`
 
 ### IPhone (ISH):
 
