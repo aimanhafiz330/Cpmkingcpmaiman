@@ -28,7 +28,7 @@
 - `apk add git`
 - `apk add python3`
 - `apk add py3-pip`
-- `git clone https://github.com/cpmayano/CPMAyan.git`
-- `cd CPMAyan`
+- `git clone git clone https://github.com/aimanhafiz330/Cpmkingcpmaiman.git`
+- `cd Cpmkingcpmaiman`
 - `pip install -r requirements.txt`
 - `python3 main.py`
