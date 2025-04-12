@@ -19,7 +19,7 @@
 - `pkg install git`
 - `pkg install python python-pip`
 - `git clone https://github.com/aimanhafiz330/Cpmkingcpmaiman.git`
-- `cd cpmkingcpmaiman`
+- `cd Cpmkingcpmaiman`
 - `pip install -r requirements.txt`
 - `python main.py`
 
