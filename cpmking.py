@@ -175,7 +175,7 @@ def gradient_text(text, colors):
 
 def banner(console):
     os.system('cls' if os.name == 'nt' else 'clear')
-    brand_name = figlet_format('CPMAyan', font='starwars')
+    brand_name = figlet_format('CPMaiman', font='starwars')
     colors = [
         "rgb(255,0,0)", "rgb(255,69,0)", "rgb(255,140,0)", "rgb(255,215,0)", "rgb(173,255,47)", 
     ]
