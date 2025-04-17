@@ -1,7 +1,7 @@
 import requests
 from time import sleep
 
-BASE_URL: str = "https://cpmkingcpmaiman.onrender.com"
+BASE_URL: str = "https://cpmkingcpmaiman.onrender.com/api"
 
 class CarParkTool:
     def __init__(self, access_key) -> None:
